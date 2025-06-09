@@ -82,6 +82,7 @@ echo {"id":"req1","operation":"sum","args":{"op1":5.0,"op2":3.0}} | .\bin\window
 
 For advanced configuration, troubleshooting, and implementation details, see the [Project Wiki](https://github.com/ferpotenUCLM/DistributedSystems/wiki).
 
+[Open Page](https://github.com/ferpotenUCLM/DistributedSystems/wiki/Technical-Manual:-Distributed-Calculator-System-with-Ice-and-Kafka).
 
 ## License
 
